@@ -22,7 +22,10 @@
     "peerdeps": "^1.0.0"
   },
   "dependencies": {
+    "apollo-server-micro": "^2.10.1",
     "body-parser": "^1.19.0",
-    "eslint-config-airbnb": "^18.0.1"
+    "eslint-config-airbnb": "^18.0.1",
+    "graphql": "^14.6.0",
+    "micro": "^9.3.4"
   }
 }
